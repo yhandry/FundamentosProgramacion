@@ -13,7 +13,7 @@ void intercambiar(int &, int &);
 void OrdenarArregloAscendente(int A[], int);
 
 
-int main()
+
 {
 
     int tamA=5;
